@@ -1,1 +1,1 @@
-# guiCal
+This is a simple gui calculator I made with help from a youtube tutorial. It features a simple calculator as well as some error dection as well as a light and dark mode. I learned alot about the basics of using Tkinter from this small project.  
